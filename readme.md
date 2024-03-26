@@ -1,2 +1,2 @@
-# Projekt śpiewnik
-(mini karaoke)
+# mini śpiewniczek
+by kkarlajn
