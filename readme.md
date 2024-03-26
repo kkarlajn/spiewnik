@@ -2,3 +2,4 @@
 ## Uczę się Githuba
 
 Lorem Ipsum
+zmiana
