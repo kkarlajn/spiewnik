@@ -82,8 +82,8 @@
         newWindow.className = 'window';
         newWindow.innerHTML = tekstyOkien[text];
         newWindow.onclick = function() { toggleElement(newWindow, text); };
-        let mySound = new Audio('zombie.mp3');
-        mySound.play();
+        // let mySound = new Audio('zombie.mp3');
+        // mySound.play();
 
         element.parentNode.replaceChild(newWindow, element);
       } else if (element.tagName.toLowerCase() === 'div' && element.classList.contains('window')) {
